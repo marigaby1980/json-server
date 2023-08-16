@@ -1,5 +1,5 @@
 {
-  "name": "json-server",
+  "name": "Testing-See-If-This-Works",
   "version": "0.17.3",
   "description": "Get a full fake REST API with zero coding in less than 30 seconds",
   "main": "./lib/server/index.js",
